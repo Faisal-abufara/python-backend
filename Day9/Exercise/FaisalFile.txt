@@ -1,0 +1,2 @@
+Hello from custom context manager!
+Did know why did it work but here it;s
