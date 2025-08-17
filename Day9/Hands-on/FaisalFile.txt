@@ -1,0 +1,2 @@
+Hello, this was written using a context manager!
+Second line of text.
