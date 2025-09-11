@@ -1,0 +1,12 @@
+[
+    {
+        "amount": 100.0,
+        "category": "rent",
+        "date": "2025-09-09"
+    },
+    {
+        "amount": -50.0,
+        "category": "Groceries",
+        "date": "2025-09-09"
+    }
+]
